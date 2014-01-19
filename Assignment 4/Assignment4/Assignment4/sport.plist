@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>India</key>
+	<array>
+		<string>Cricket</string>
+		<string>Chess</string>
+		<string>Badminton</string>
+		<string>Field Hockey</string>
+		<string>Football</string>
+		<string>Tennis</string>
+		<string>Gilli-danda</string>
+		<string>Golf</string>
+	</array>
+	<key>USA</key>
+	<array>
+		<string>Baseball</string>
+		<string>Football</string>
+		<string>Hockey</string>
+		<string>Basketball</string>
+		<string>Soccer</string>
+		<string>Golf</string>
+		<string>Skateboarding</string>
+	</array>
+	<key>Mexico</key>
+	<array>
+		<string>Football</string>
+		<string>Boxing</string>
+		<string>Baseball</string>
+		<string>Charreria</string>
+		<string>Bullfighting</string>
+		<string>Basque Pelota</string>
+	</array>
+</dict>
+</plist>
